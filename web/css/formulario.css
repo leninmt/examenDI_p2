@@ -1,0 +1,15 @@
+/*formulario*/
+.formulario {
+    background: linear-gradient(45deg, rgb(15, 161, 187) , rgb(15, 161, 187), rgb(54, 59, 59));
+    width: 500px;
+    height: 850px;
+    
+}
+
+.card-heard{
+    color: white;
+}
+
+.card-body{
+    color: white;
+}

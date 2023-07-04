@@ -1,0 +1,49 @@
+
+    
+
+.Mapa-centro{
+    margin-left:350px;
+    padding-top: 10px;
+    
+}
+.formulario{
+    margin-left: 1px;
+    width: 500px;
+    height: 500px;
+ background: rgb(116, 127, 131);
+
+}
+.Cuadro{
+    border: solid 3px rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 550px;
+    height: 350px;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.col-md-4 {
+    padding-top: 20px;
+}
+.info {
+    margin-left: 400px;
+    border: solid 3px rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Titulo-ubicacion{
+    margin-left:550px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mb-3{
+    color: rgba(21, 5, 5, 0.709);
+}
+.card-heard{
+    color: rgba(6, 6, 6, 0.785);   
+}
